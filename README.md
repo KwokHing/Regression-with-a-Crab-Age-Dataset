@@ -2,6 +2,8 @@
 
 This repo provides the submission entry for a [kaggle challenge](https://www.kaggle.com/competitions/playground-series-s3e16/overview) to create a regression model to predict a crab's age. 
 
+Boosting regressor models like XGBoost, Catboost and LGBM performs well on this dataset. The finally deployed model is a voting-ensemble made up of XGBoost and Catboost.
+
 ![jpg](img/Regression-Crab.png)
 
 ## Getting started
